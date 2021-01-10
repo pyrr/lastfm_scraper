@@ -1,4 +1,4 @@
-## LFMScraper.py
+## LastFM Scraper
 Visualizes Spotify listening history between a last.fm user's top 50 artists.
 
 The user can define a limit to how many artists are labeled by name such that the rest are grouped into "Other."
